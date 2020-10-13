@@ -27,7 +27,7 @@ class Home extends StatelessWidget {
                 Padding(
                   padding: EdgeInsets.only(
                       bottom: 20), //memberi padding dibawah saja pada text
-                  child: Text("Nama Anggota :"), //widget text
+                  child: Text("Kelompok H - Nama Anggota :"), //widget text
                 )
               ],
             ),
